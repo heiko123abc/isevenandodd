@@ -1,2 +1,14 @@
-# isevenandodd
-npm package - Test if given thing is a number with a value of zero.
+This checks wheater a number is even and odd at the same time!
+
+## Usage:
+
+isEvenAndOdd( number )
+
+## Example:
+```javascript
+var isEvenAndOdd = require('is-even-and-odd');
+var test = isEvenAndOdd(19);
+console.log(test);
+```
+
+###### >false

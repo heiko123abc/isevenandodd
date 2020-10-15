@@ -1,0 +1,16 @@
+{
+  "name": "is-even-and-odd",
+  "version": "1.0.6",
+  "description": "checks if finite number is even and odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "even",
+    "odd",
+    "number"
+  ],
+  "author": "heiko123abc",
+  "license": "ISC"
+}
