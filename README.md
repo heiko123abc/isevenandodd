@@ -1,4 +1,4 @@
-This checks wheater a number is even and odd at the same time!
+This checks whether a number is even and odd at the same time!
 
 ## Usage:
 
